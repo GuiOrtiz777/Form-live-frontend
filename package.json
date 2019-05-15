@@ -5,7 +5,10 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-select": "^2.4.3",
+    "styled-components": "^4.2.0",
+    "yup": "^0.27.0"
   },
   "scripts": {
     "start": "react-scripts start",
